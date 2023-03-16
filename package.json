@@ -1,0 +1,23 @@
+{
+  "name": "wtf-chartjs",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^3.2.4"
+  },
+   "dependencies": {
+    "@cubejs-client/core": "^0.30.29",
+    "chart.js": "^4.0.0"
+  },
+  "keywords": [
+    "vanilla",
+    "vite"
+  ],
+  "description": "Romance's Vanilla JS based on Vite"
+}
